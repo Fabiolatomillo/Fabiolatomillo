@@ -10,7 +10,7 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
   I have experience working with various programming languages, frameworks and tools, which has allowed me to acquire solid skills in software and web development. I'm always willing to learn and collaborate with other developers on innovative projects.
 
     
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">Desarrollador Web Full Stack</h3>
 
 
 
